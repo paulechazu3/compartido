@@ -8,6 +8,7 @@ export default function Post() {
     <div>
       <Nav />
      hola soy pau
+     <h1>que onda loca</h1>
     </div>
   );
 }
